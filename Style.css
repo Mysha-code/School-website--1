@@ -1,0 +1,12 @@
+body{
+text-align: center;
+background-image: linear-gradient(white,yellow,blue,red)
+}
+map{
+width:150px;
+height: 150px;
+}
+video{
+width: 150px;
+height: 150px;
+}
